@@ -1,0 +1,57 @@
+.bg-light {
+    background-color:#cbf5ed !important;
+}
+
+
+div>p{
+    font-size: 40px;
+    
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+}
+.card{
+    height: 400px;
+    display: flex;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    flex-direction: row;
+}
+.fa-heart{
+    padding-left : 100px; 
+    padding-top: 100px;
+    font-size: 100px;
+    color: black;
+    
+   
+}
+.image{
+    position: relative; 
+    left: 200px;
+   
+}
+.icons{
+    display:flex;
+    align-items: center;
+    position: relative;
+    left: 500px;
+    width: 250px;
+    justify-content: space-between;
+}
+.fas{
+    font-size: 50px;
+}
+
+.oo{
+    background-color: white;
+    border-style: none;
+}
+.kk{
+    background-color: salmon;
+}
+
+.fa-heart{
+    color: black;
+}
